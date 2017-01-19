@@ -1,0 +1,2751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.1">
+<header segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"  o-encoding="UTF-8">
+</header>
+<body>
+<tu tuid="0" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>There was once</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Una vez había</seg>
+  </tuv>
+</tu>
+<tu tuid="1" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>a sweet little maid,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una pequeña niña dulce,</seg>
+  </tuv>
+</tu>
+<tu tuid="2" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>much beloved</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>muy amada</seg>
+  </tuv>
+</tu>
+<tu tuid="3" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>by everybody,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por todo el mundo,</seg>
+  </tuv>
+</tu>
+<tu tuid="4" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>but most of all</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pero aún más</seg>
+  </tuv>
+</tu>
+<tu tuid="5" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>by her grandmother,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por su abuela,</seg>
+  </tuv>
+</tu>
+<tu tuid="6" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>who could never get enough of her.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>quien nunca podía tener demasiado tiempo con ella.</seg>
+  </tuv>
+</tu>
+<tu tuid="7" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Once she sent her</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Una vez ella le envió</seg>
+  </tuv>
+</tu>
+<tu tuid="8" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>a little cap</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una capa pequeña</seg>
+  </tuv>
+</tu>
+<tu tuid="9" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>of red velvet,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>de rojo terciopelo,</seg>
+  </tuv>
+</tu>
+<tu tuid="10" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and as it was very becoming to her,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y porque le quedó bien,</seg>
+  </tuv>
+</tu>
+<tu tuid="11" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and she never wore anything else,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y ella nunca le puso nada más,</seg>
+  </tuv>
+</tu>
+<tu tuid="12" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and the people</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y la gente</seg>
+  </tuv>
+</tu>
+<tu tuid="13" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>called her</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>le llamó</seg>
+  </tuv>
+</tu>
+<tu tuid="14" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Red Riding-Hood.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Caperucita Roja.</seg>
+  </tuv>
+</tu>
+<tu tuid="15" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>One day</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Un día</seg>
+  </tuv>
+</tu>
+<tu tuid="16" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>her mother</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>su madre</seg>
+  </tuv>
+</tu>
+<tu tuid="17" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>said to her,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>le dijo a ella,</seg>
+  </tuv>
+</tu>
+<tu tuid="18" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="19" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"Come,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>“Ven,</seg>
+  </tuv>
+</tu>
+<tu tuid="20" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Red Riding-Hood,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Caperucita Roja,</seg>
+  </tuv>
+</tu>
+<tu tuid="21" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>here are some cakes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>aquí hay unas tortas</seg>
+  </tuv>
+</tu>
+<tu tuid="22" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y</seg>
+  </tuv>
+</tu>
+<tu tuid="23" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>a bottle of milk</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una botella de leche</seg>
+  </tuv>
+</tu>
+<tu tuid="24" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>for you to take</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para llevar contigo</seg>
+  </tuv>
+</tu>
+<tu tuid="25" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>to grandmother;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a la abuela;</seg>
+  </tuv>
+</tu>
+<tu tuid="26" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>she is weak</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>está débil</seg>
+  </tuv>
+</tu>
+<tu tuid="27" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and ill,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y enferma,</seg>
+  </tuv>
+</tu>
+<tu tuid="28" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and they will do her good.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y las ayudarán.</seg>
+  </tuv>
+</tu>
+<tu tuid="29" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Make haste</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Ten prisa</seg>
+  </tuv>
+</tu>
+<tu tuid="30" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and start</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y empieza</seg>
+  </tuv>
+</tu>
+<tu tuid="31" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>before it grows hot,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>antes de que haya calor,</seg>
+  </tuv>
+</tu>
+<tu tuid="32" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and walk nicely</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y camina bien</seg>
+  </tuv>
+</tu>
+<tu tuid="33" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and properly,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y apropiadamente,</seg>
+  </tuv>
+</tu>
+<tu tuid="34" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and don't run,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y no corres,</seg>
+  </tuv>
+</tu>
+<tu tuid="35" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>or you might fall</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>o podrías caer</seg>
+  </tuv>
+</tu>
+<tu tuid="36" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and break</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y romper</seg>
+  </tuv>
+</tu>
+<tu tuid="37" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the bottle of milk,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la botella de leche,</seg>
+  </tuv>
+</tu>
+<tu tuid="38" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and there would be none left</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y no le quedaría nada</seg>
+  </tuv>
+</tu>
+<tu tuid="39" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>for grandmother.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para la abuela.</seg>
+  </tuv>
+</tu>
+<tu tuid="40" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>And when you go into</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Y cuando entras en</seg>
+  </tuv>
+</tu>
+<tu tuid="41" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>her house,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>su casa,</seg>
+  </tuv>
+</tu>
+<tu tuid="42" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>don't forget</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>no olvides</seg>
+  </tuv>
+</tu>
+<tu tuid="43" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>to say,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>decir,</seg>
+  </tuv>
+</tu>
+<tu tuid="44" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Good morning,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Buenos días,</seg>
+  </tuv>
+</tu>
+<tu tuid="45" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>instead of staring about you.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en vez de mirarla fijamente.”</seg>
+  </tuv>
+</tu>
+<tu tuid="46" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="47" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"I will be sure to take care,”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Tendré cuidado,”</seg>
+  </tuv>
+</tu>
+<tu tuid="48" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said Little Red Riding-Hood</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo Caperucita Roja</seg>
+  </tuv>
+</tu>
+<tu tuid="49" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>to her mother,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a su madre,</seg>
+  </tuv>
+</tu>
+<tu tuid="50" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and gave her hand upon it.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y dio su mano para prometerlo.</seg>
+  </tuv>
+</tu>
+<tu tuid="51" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Now</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Ahora</seg>
+  </tuv>
+</tu>
+<tu tuid="52" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the grandmother</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la abuela</seg>
+  </tuv>
+</tu>
+<tu tuid="53" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>lived</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>vivía</seg>
+  </tuv>
+</tu>
+<tu tuid="54" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>away in the forest,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>lejos en el bosque,</seg>
+  </tuv>
+</tu>
+<tu tuid="55" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>half-an-hour's walk</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un camino de media hora</seg>
+  </tuv>
+</tu>
+<tu tuid="56" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>from the village;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>del pueblo;</seg>
+  </tuv>
+</tu>
+<tu tuid="57" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and when</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y cuando</seg>
+  </tuv>
+</tu>
+<tu tuid="58" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Red Riding-Hood</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Caperucita Roja</seg>
+  </tuv>
+</tu>
+<tu tuid="59" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>had reached</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>ha llegado</seg>
+  </tuv>
+</tu>
+<tu tuid="60" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the forest,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>al bosque,</seg>
+  </tuv>
+</tu>
+<tu tuid="61" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>she met</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>ella conoció</seg>
+  </tuv>
+</tu>
+<tu tuid="62" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the wolf;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>al lobo;</seg>
+  </tuv>
+</tu>
+<tu tuid="63" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>but as she did not know what</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pero como no sabía</seg>
+  </tuv>
+</tu>
+<tu tuid="64" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>a bad sort of animal</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el animal malo que</seg>
+  </tuv>
+</tu>
+<tu tuid="65" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>he was,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>él era,</seg>
+  </tuv>
+</tu>
+<tu tuid="66" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>she did not feel frightened.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>no tenía miedo.</seg>
+  </tuv>
+</tu>
+<tu tuid="67" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="68" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"Good day,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Buenos días,</seg>
+  </tuv>
+</tu>
+<tu tuid="69" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Red Riding-Hood,”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Caperucita Roja,”</seg>
+  </tuv>
+</tu>
+<tu tuid="70" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said he.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo él.</seg>
+  </tuv>
+</tu>
+<tu tuid="71" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="72" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"Thank you kindly,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Muchas gracias,</seg>
+  </tuv>
+</tu>
+<tu tuid="73" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Wolf,”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Lobo,”</seg>
+  </tuv>
+</tu>
+<tu tuid="74" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>answered she.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>contestó ella.</seg>
+  </tuv>
+</tu>
+<tu tuid="75" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="76" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"Where are you going</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¿Adónde vas</seg>
+  </tuv>
+</tu>
+<tu tuid="77" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>so early,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>tan temprano,</seg>
+  </tuv>
+</tu>
+<tu tuid="78" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Red Riding-Hood?”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Caperucita Roja?”</seg>
+  </tuv>
+</tu>
+<tu tuid="79" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="80" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"To my grandmother’s house.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"A la casa de mi abuela.”</seg>
+  </tuv>
+</tu>
+<tu tuid="81" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="82" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"What are you carrying under</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¿Qué llaves contigo bajo</seg>
+  </tuv>
+</tu>
+<tu tuid="83" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>your apron?”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el delantal?”</seg>
+  </tuv>
+</tu>
+<tu tuid="84" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="85" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"Cakes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Tortas</seg>
+  </tuv>
+</tu>
+<tu tuid="86" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and milk;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y leche;</seg>
+  </tuv>
+</tu>
+<tu tuid="87" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>we baked yesterday;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>horneamos ayer;</seg>
+  </tuv>
+</tu>
+<tu tuid="88" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and my grandmother</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y mi abuela</seg>
+  </tuv>
+</tu>
+<tu tuid="89" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>is very weak</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>está muy débil</seg>
+  </tuv>
+</tu>
+<tu tuid="90" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and ill,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y enferma,</seg>
+  </tuv>
+</tu>
+<tu tuid="91" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>so they will do her good,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pues esas cosas le ayudarán,</seg>
+  </tuv>
+</tu>
+<tu tuid="92" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and strengthen her.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y le darán más fuerza.”</seg>
+  </tuv>
+</tu>
+<tu tuid="93" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="94" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>"Where does your grandmother live,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¿Dónde vive su abuela,</seg>
+  </tuv>
+</tu>
+<tu tuid="95" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Red Riding-Hood?”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Caperucita Roja?”</seg>
+  </tuv>
+</tu>
+<tu tuid="96" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="97" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"A quarter of an hour's walk from here;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"A pie, un cuarto de hora de aquí;</seg>
+  </tuv>
+</tu>
+<tu tuid="98" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>her house</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>su casa</seg>
+  </tuv>
+</tu>
+<tu tuid="99" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>stands beneath</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>está bajo</seg>
+  </tuv>
+</tu>
+<tu tuid="100" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>the oak trees,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los robles,</seg>
+  </tuv>
+</tu>
+<tu tuid="101" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and you may know it by</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y es posible que la conoces que</seg>
+  </tuv>
+</tu>
+<tu tuid="102" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>the hazel bushes,”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los avellanos,”</seg>
+  </tuv>
+</tu>
+<tu tuid="103" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>said Little Red Riding-Hood.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo Caperucita Roja.</seg>
+  </tuv>
+</tu>
+<tu tuid="104" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>The Wolf</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>El Lobo</seg>
+  </tuv>
+</tu>
+<tu tuid="105" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>thought to himself,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pensó para sí mismo,</seg>
+  </tuv>
+</tu>
+<tu tuid="106" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="107" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"That tender young thing</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Esa jovencita tierna</seg>
+  </tuv>
+</tu>
+<tu tuid="108" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>would be</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>sería</seg>
+  </tuv>
+</tu>
+<tu tuid="109" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>a delicious morsel,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un pedacito delicioso,</seg>
+  </tuv>
+</tu>
+<tu tuid="110" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and would taste</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y tendría un sabor</seg>
+  </tuv>
+</tu>
+<tu tuid="111" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>better than</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>más bueno que</seg>
+  </tuv>
+</tu>
+<tu tuid="112" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the old one;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la vieja;</seg>
+  </tuv>
+</tu>
+<tu tuid="113" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>I must manage somehow</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>de alguna manera debo</seg>
+  </tuv>
+</tu>
+<tu tuid="114" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>to eat both of them.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>comer a las dos.”</seg>
+  </tuv>
+</tu>
+<tu tuid="115" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="116" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Then he walked with</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Así que caminó con</seg>
+  </tuv>
+</tu>
+<tu tuid="117" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Red Riding-Hood</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Caperucita Roja</seg>
+  </tuv>
+</tu>
+<tu tuid="118" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>a little while,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por un rato,</seg>
+  </tuv>
+</tu>
+<tu tuid="119" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="120" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="121" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Little Red Riding-Hood,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Caperucita Roja,</seg>
+  </tuv>
+</tu>
+<tu tuid="122" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>just look at</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>mira</seg>
+  </tuv>
+</tu>
+<tu tuid="123" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the pretty flowers</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>las flores hermosas</seg>
+  </tuv>
+</tu>
+<tu tuid="124" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>that are growing all round you,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que están creciendo alrededor de ti,</seg>
+  </tuv>
+</tu>
+<tu tuid="125" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and I don't think you are listening to</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y creo que no estás escuchando</seg>
+  </tuv>
+</tu>
+<tu tuid="126" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the song </seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la canción </seg>
+  </tuv>
+</tu>
+<tu tuid="127" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>of the birds;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>de los pájaros;</seg>
+  </tuv>
+</tu>
+<tu tuid="128" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>you are walking along</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>estás allí caminando</seg>
+  </tuv>
+</tu>
+<tu tuid="129" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>just as if you were going</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>como si sólo fueras</seg>
+  </tuv>
+</tu>
+<tu tuid="130" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>to school,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a la escuela,</seg>
+  </tuv>
+</tu>
+<tu tuid="131" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and it is so delightful out here </seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y es tan encantador aquí </seg>
+  </tuv>
+</tu>
+<tu tuid="132" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>in the forest.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en el bosque.”</seg>
+  </tuv>
+</tu>
+<tu tuid="133" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="134" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Red Riding-Hood</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Caperucita Roja</seg>
+  </tuv>
+</tu>
+<tu tuid="135" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>glanced round her,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>miró por todos lados,</seg>
+  </tuv>
+</tu>
+<tu tuid="136" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and when she saw</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y cuando vio</seg>
+  </tuv>
+</tu>
+<tu tuid="137" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>the sunbeams</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los rayos del sol</seg>
+  </tuv>
+</tu>
+<tu tuid="138" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>darting through</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>lanzándose entre</seg>
+  </tuv>
+</tu>
+<tu tuid="139" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the trees,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los árboles,</seg>
+  </tuv>
+</tu>
+<tu tuid="140" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and lovely flowers</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y las flores hermosas</seg>
+  </tuv>
+</tu>
+<tu tuid="141" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>everywhere,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por todas partes,</seg>
+  </tuv>
+</tu>
+<tu tuid="142" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>she thought to herself,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pensó para sí misma,</seg>
+  </tuv>
+</tu>
+<tu tuid="143" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="144" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"If I were to take</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Si yo fuera a llevar</seg>
+  </tuv>
+</tu>
+<tu tuid="145" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>fresh flowers</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>flores hermosas</seg>
+  </tuv>
+</tu>
+<tu tuid="146" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>to my grandmother</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a mi abuela</seg>
+  </tuv>
+</tu>
+<tu tuid="147" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>she would be very pleased,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a ella le encantarían,</seg>
+  </tuv>
+</tu>
+<tu tuid="148" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and it is so early</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y es tan temprano</seg>
+  </tuv>
+</tu>
+<tu tuid="149" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>in the day </seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en el día </seg>
+  </tuv>
+</tu>
+<tu tuid="150" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>that I shall reach her</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que llegaré a ella</seg>
+  </tuv>
+</tu>
+<tu tuid="151" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>in plenty of time;”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con mucho tiempo;”</seg>
+  </tuv>
+</tu>
+<tu tuid="152" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and so she ran about </seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y así que corría por todos lados </seg>
+  </tuv>
+</tu>
+<tu tuid="153" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>in the forest,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en el bosque,</seg>
+  </tuv>
+</tu>
+<tu tuid="154" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>looking for</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>buscando</seg>
+  </tuv>
+</tu>
+<tu tuid="155" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>the flowers.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>las flores.</seg>
+  </tuv>
+</tu>
+<tu tuid="156" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>And as she picked one </seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Y mientras que recogía una,</seg>
+  </tuv>
+</tu>
+<tu tuid="157" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>she saw a still prettier one</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>vio una aún más hermosa</seg>
+  </tuv>
+</tu>
+<tu tuid="158" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>a little farther off,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un poco más lejos,</seg>
+  </tuv>
+</tu>
+<tu tuid="159" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and so she went farther</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y así que entró más</seg>
+  </tuv>
+</tu>
+<tu tuid="160" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and farther </seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y más adelante </seg>
+  </tuv>
+</tu>
+<tu tuid="161" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>into the forest.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en el bosque.</seg>
+  </tuv>
+</tu>
+<tu tuid="162" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>But</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Pero</seg>
+  </tuv>
+</tu>
+<tu tuid="163" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the Wolf</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Lobo</seg>
+  </tuv>
+</tu>
+<tu tuid="164" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>went straight to</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>fue inmediatamente a</seg>
+  </tuv>
+</tu>
+<tu tuid="165" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>grandmother’s house</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la casa de la abuela</seg>
+  </tuv>
+</tu>
+<tu tuid="166" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and knocked at</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y tocó a</seg>
+  </tuv>
+</tu>
+<tu tuid="167" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the door.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la puerta.</seg>
+  </tuv>
+</tu>
+<tu tuid="168" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="169" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"Who is there?”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¿Quién es?”</seg>
+  </tuv>
+</tu>
+<tu tuid="170" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>cried the grandmother.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>gritó la abuela.</seg>
+  </tuv>
+</tu>
+<tu tuid="171" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="172" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Little Red Riding-Hood,”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Caperucita Roja,”</seg>
+  </tuv>
+</tu>
+<tu tuid="173" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>he answered,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>contestó él,</seg>
+  </tuv>
+</tu>
+<tu tuid="174" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"and I have brought you</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"y te he llevado</seg>
+  </tuv>
+</tu>
+<tu tuid="175" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>some cakes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>unas tortas</seg>
+  </tuv>
+</tu>
+<tu tuid="176" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and a bottle of milk.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y una botella de leche.</seg>
+  </tuv>
+</tu>
+<tu tuid="177" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>Please open</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Por favor abre</seg>
+  </tuv>
+</tu>
+<tu tuid="178" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the door.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la puerta.”</seg>
+  </tuv>
+</tu>
+<tu tuid="179" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="180" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>"Lift the latch,”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Abre la aldaba,”</seg>
+  </tuv>
+</tu>
+<tu tuid="181" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>cried the grandmother;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>gritó la abuela;</seg>
+  </tuv>
+</tu>
+<tu tuid="182" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"I am too feeble</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Estoy demasiado débil</seg>
+  </tuv>
+</tu>
+<tu tuid="183" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>to get up.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para levantarme.”</seg>
+  </tuv>
+</tu>
+<tu tuid="184" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="185" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>The Wolf</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>El Lobo</seg>
+  </tuv>
+</tu>
+<tu tuid="186" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>lifted the latch,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>abrió la aldaba,</seg>
+  </tuv>
+</tu>
+<tu tuid="187" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and the door</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y la puerta</seg>
+  </tuv>
+</tu>
+<tu tuid="188" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>flew open,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>abrió rápidamente,</seg>
+  </tuv>
+</tu>
+<tu tuid="189" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and he fell upon</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y asaltó a</seg>
+  </tuv>
+</tu>
+<tu tuid="190" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the grandmother</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la abuela</seg>
+  </tuv>
+</tu>
+<tu tuid="191" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and ate her up without saying</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y le comió sin decir ni</seg>
+  </tuv>
+</tu>
+<tu tuid="192" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>one word.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una palabra.</seg>
+  </tuv>
+</tu>
+<tu tuid="193" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Then he put on</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Luego le puso</seg>
+  </tuv>
+</tu>
+<tu tuid="194" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>her clothes,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la ropa de ella,</seg>
+  </tuv>
+</tu>
+<tu tuid="195" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>put on her cap,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>le puso su gorra,</seg>
+  </tuv>
+</tu>
+<tu tuid="196" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>lay down in her bed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se tumbó en su cama,</seg>
+  </tuv>
+</tu>
+<tu tuid="197" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and drew the curtains.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y cerró las cortinas.</seg>
+  </tuv>
+</tu>
+<tu tuid="198" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="199" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Red Riding-Hood</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Caperucita Roja,</seg>
+  </tuv>
+</tu>
+<tu tuid="200" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>was all this time running about among</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>durante todo eso, estaba corriendo entre</seg>
+  </tuv>
+</tu>
+<tu tuid="201" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>the flowers,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>las flores,</seg>
+  </tuv>
+</tu>
+<tu tuid="202" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and when she had gathered</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y cuando hubo recogido</seg>
+  </tuv>
+</tu>
+<tu tuid="203" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>as many as she could hold,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>todas las flores que podía llevar contigo,</seg>
+  </tuv>
+</tu>
+<tu tuid="204" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>she remembered her grandmother,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>se acordó de su abuela,</seg>
+  </tuv>
+</tu>
+<tu tuid="205" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and set off to go to</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y empezó a ir a</seg>
+  </tuv>
+</tu>
+<tu tuid="206" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>her house.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>su casa.</seg>
+  </tuv>
+</tu>
+<tu tuid="207" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>She was surprised to find</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Estaba sorprendida cuando encontró</seg>
+  </tuv>
+</tu>
+<tu tuid="208" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the door standing open,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la puerta abierta,</seg>
+  </tuv>
+</tu>
+<tu tuid="209" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and when she went inside</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y cuando entró</seg>
+  </tuv>
+</tu>
+<tu tuid="210" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the house</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la casa</seg>
+  </tuv>
+</tu>
+<tu tuid="211" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>she felt very strange,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>se sentía muy rara,</seg>
+  </tuv>
+</tu>
+<tu tuid="212" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and thought to herself,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y pensó para sí misma,</seg>
+  </tuv>
+</tu>
+<tu tuid="213" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="214" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>"Oh dear,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>“Ay,</seg>
+  </tuv>
+</tu>
+<tu tuid="215" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>how uncomfortable I feel,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>qué incómoda me siento,</seg>
+  </tuv>
+</tu>
+<tu tuid="216" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and I was so glad this morning to go</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y estaba tan contenta esta mañana ir</seg>
+  </tuv>
+</tu>
+<tu tuid="217" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and visit my grandmother!”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y visitar a mi abuela!”</seg>
+  </tuv>
+</tu>
+<tu tuid="218" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="219" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>And when she said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Y cuando dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="220" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>"Good morning,”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Buenos días,”</seg>
+  </tuv>
+</tu>
+<tu tuid="221" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>there was no answer.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>nadie contestó.</seg>
+  </tuv>
+</tu>
+<tu tuid="222" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Then she went up to</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Luego subió a</seg>
+  </tuv>
+</tu>
+<tu tuid="223" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the bedroom</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la habitación</seg>
+  </tuv>
+</tu>
+<tu tuid="224" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and drew back the curtains;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y abrió las cortinas;</seg>
+  </tuv>
+</tu>
+<tu tuid="225" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>there lay the grandmother</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>allí estuvo the abuela</seg>
+  </tuv>
+</tu>
+<tu tuid="226" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>with her cap</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con su gorra</seg>
+  </tuv>
+</tu>
+<tu tuid="227" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>pulled over her eyes,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>sobre sus ojos,</seg>
+  </tuv>
+</tu>
+<tu tuid="228" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>so that she looked very odd.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>así que parecía muy rara.</seg>
+  </tuv>
+</tu>
+<tu tuid="229" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="230" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"O grandmother,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Ay abuela,</seg>
+  </tuv>
+</tu>
+<tu tuid="231" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>what large ears you have got!”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¡Qué orejas grandes tienes!”</seg>
+  </tuv>
+</tu>
+<tu tuid="232" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="233" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"The better to hear with.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Mejor para oírte.”</seg>
+  </tuv>
+</tu>
+<tu tuid="234" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="235" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"O grandmother,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Ay abuela,</seg>
+  </tuv>
+</tu>
+<tu tuid="236" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>what large eyes you have got!”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¡Qué ojos grandes tienes!”</seg>
+  </tuv>
+</tu>
+<tu tuid="237" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="238" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"The better to see with.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Mejor para verte.”</seg>
+  </tuv>
+</tu>
+<tu tuid="239" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="240" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"O grandmother,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Ay abuela,</seg>
+  </tuv>
+</tu>
+<tu tuid="241" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>what big hands you have got!”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¡Qué manos grandes tienes!”</seg>
+  </tuv>
+</tu>
+<tu tuid="242" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="243" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"The better to take hold of you with.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Mejor para agarrarte.”</seg>
+  </tuv>
+</tu>
+<tu tuid="244" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="245" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"But,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>“Pero,</seg>
+  </tuv>
+</tu>
+<tu tuid="246" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>grandmother,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>abuela,</seg>
+  </tuv>
+</tu>
+<tu tuid="247" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>what a terrible mouth you have got!”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¡Qué boca tan terrible tienes!”</seg>
+  </tuv>
+</tu>
+<tu tuid="248" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="249" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"The better to devour you!”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¡Mejor para devorarte!”</seg>
+  </tuv>
+</tu>
+<tu tuid="250" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>And no sooner had the Wolf said it than</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Y tan pronto como el Lobo lo ha dicho,</seg>
+  </tuv>
+</tu>
+<tu tuid="251" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>he jumped from the bed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>saltó de la cama,</seg>
+  </tuv>
+</tu>
+<tu tuid="252" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and swallowed up</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y tragó a</seg>
+  </tuv>
+</tu>
+<tu tuid="253" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>poor Little Red Riding-Hood.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la pobre Caperucita Roja.</seg>
+  </tuv>
+</tu>
+<tu tuid="254" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="255" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>Then</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Pues</seg>
+  </tuv>
+</tu>
+<tu tuid="256" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the Wolf,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Lobo,</seg>
+  </tuv>
+</tu>
+<tu tuid="257" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>having satisfied his hunger,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con su hambre satisfecha,</seg>
+  </tuv>
+</tu>
+<tu tuid="258" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>lay down again </seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>otra vez se tumbó </seg>
+  </tuv>
+</tu>
+<tu tuid="259" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>in the bed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en la cama,</seg>
+  </tuv>
+</tu>
+<tu tuid="260" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>went to sleep,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>se durmió,</seg>
+  </tuv>
+</tu>
+<tu tuid="261" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and began to snore loudly.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y empezó a roncar ruidosamente.</seg>
+  </tuv>
+</tu>
+<tu tuid="262" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>A hunter</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Un cazador</seg>
+  </tuv>
+</tu>
+<tu tuid="263" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>heard him</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>le oyó</seg>
+  </tuv>
+</tu>
+<tu tuid="264" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>as he was passing by</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>cuando pasaba a</seg>
+  </tuv>
+</tu>
+<tu tuid="265" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the house,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la casa,</seg>
+  </tuv>
+</tu>
+<tu tuid="266" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and thought,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y pensó,</seg>
+  </tuv>
+</tu>
+<tu tuid="267" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="268" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"How the old woman snores—;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¿Cómo está la mujer vieja roncando tan ruidosamente;</seg>
+  </tuv>
+</tu>
+<tu tuid="269" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>I had better see</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Debo ver</seg>
+  </tuv>
+</tu>
+<tu tuid="270" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>if there is anything the matter with her.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>si le pasa algo.”</seg>
+  </tuv>
+</tu>
+<tu tuid="271" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="272" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>Then he went </seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Luego entró </seg>
+  </tuv>
+</tu>
+<tu tuid="273" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>in the house,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en la casa,</seg>
+  </tuv>
+</tu>
+<tu tuid="274" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and walked up to</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y acercó</seg>
+  </tuv>
+</tu>
+<tu tuid="275" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the bed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la cama,</seg>
+  </tuv>
+</tu>
+<tu tuid="276" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and saw</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y vio</seg>
+  </tuv>
+</tu>
+<tu tuid="277" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the Wolf</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>al Lobo</seg>
+  </tuv>
+</tu>
+<tu tuid="278" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>lying there.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>tumbándose allí.</seg>
+  </tuv>
+</tu>
+<tu tuid="279" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="280" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"At last</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¡Por fin</seg>
+  </tuv>
+</tu>
+<tu tuid="281" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>I find you,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>te encuentro,</seg>
+  </tuv>
+</tu>
+<tu tuid="282" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>you old Wolf!”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>tú Lobo viejo!”</seg>
+  </tuv>
+</tu>
+<tu tuid="283" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said he;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo él;</seg>
+  </tuv>
+</tu>
+<tu tuid="284" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"I have been looking for you</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Te he estado buscando</seg>
+  </tuv>
+</tu>
+<tu tuid="285" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>a long time.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por mucho tiempo.</seg>
+  </tuv>
+</tu>
+<tu tuid="286" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>And he made up his mind that</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Y decidió que</seg>
+  </tuv>
+</tu>
+<tu tuid="287" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the Wolf</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Lobo</seg>
+  </tuv>
+</tu>
+<tu tuid="288" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>had swallowed</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>ha tragado a</seg>
+  </tuv>
+</tu>
+<tu tuid="289" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the grandmother whole,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la abuela entera,</seg>
+  </tuv>
+</tu>
+<tu tuid="290" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and that she might yet be saved.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y que aún podría salvarla.</seg>
+  </tuv>
+</tu>
+<tu tuid="291" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>So he did not fire,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Así que no disparó,</seg>
+  </tuv>
+</tu>
+<tu tuid="292" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>but took</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pero tomó</seg>
+  </tuv>
+</tu>
+<tu tuid="293" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>a pair of shears</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un par de tijeras</seg>
+  </tuv>
+</tu>
+<tu tuid="294" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and began to cut open</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y empezó a abrir</seg>
+  </tuv>
+</tu>
+<tu tuid="295" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the body</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el cuerpo</seg>
+  </tuv>
+</tu>
+<tu tuid="296" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>of the Wolf.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>del Lobo.</seg>
+  </tuv>
+</tu>
+<tu tuid="297" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>When he made</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Cuando hizo</seg>
+  </tuv>
+</tu>
+<tu tuid="298" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>a few snips</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>algunas cortadas</seg>
+  </tuv>
+</tu>
+<tu tuid="299" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>Little Red Riding-Hood appeared,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Caperucita Roja apareció,</seg>
+  </tuv>
+</tu>
+<tu tuid="300" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and after</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y después</seg>
+  </tuv>
+</tu>
+<tu tuid="301" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>a few more snips</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>de algunas más cortadas,</seg>
+  </tuv>
+</tu>
+<tu tuid="302" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>she jumped out</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>salió</seg>
+  </tuv>
+</tu>
+<tu tuid="303" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and cried,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y gritó,</seg>
+  </tuv>
+</tu>
+<tu tuid="304" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"Oh dear,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Ay caramba,</seg>
+  </tuv>
+</tu>
+<tu tuid="305" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>how frightened I have been!</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¡qué miedo!</seg>
+  </tuv>
+</tu>
+<tu tuid="306" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>it is so dark inside</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Está tan oscuro dentro</seg>
+  </tuv>
+</tu>
+<tu tuid="307" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>the body of a Wolf.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>del cuerpo del Lobo.</seg>
+  </tuv>
+</tu>
+<tu tuid="308" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>And then out came</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Y pronto salió</seg>
+  </tuv>
+</tu>
+<tu tuid="309" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the old grandmother,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la abuela vieja,</seg>
+  </tuv>
+</tu>
+<tu tuid="310" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>still living</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>aún viviendo</seg>
+  </tuv>
+</tu>
+<tu tuid="311" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and breathing.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y respirando.</seg>
+  </tuv>
+</tu>
+<tu tuid="312" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>But Little Red Riding-Hood</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Pero Caperucita Roja</seg>
+  </tuv>
+</tu>
+<tu tuid="313" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>went and quickly fetched</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>fue rápidamente para obtener</seg>
+  </tuv>
+</tu>
+<tu tuid="314" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>some large stones,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>unas piedras grandes,</seg>
+  </tuv>
+</tu>
+<tu tuid="315" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>with which she filled</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con las cuales llenó</seg>
+  </tuv>
+</tu>
+<tu tuid="316" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>the body of the Wolf,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el cuerpo del Lobo,</seg>
+  </tuv>
+</tu>
+<tu tuid="317" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>so that when</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>así que cuando</seg>
+  </tuv>
+</tu>
+<tu tuid="318" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>he woke up,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>él se despertó,</seg>
+  </tuv>
+</tu>
+<tu tuid="319" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and was going to rush away,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>e iba a correr,</seg>
+  </tuv>
+</tu>
+<tu tuid="320" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the stones</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>las piedras</seg>
+  </tuv>
+</tu>
+<tu tuid="321" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>were so heavy that</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pesaron tanto que</seg>
+  </tuv>
+</tu>
+<tu tuid="322" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>he sank down</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>se cayó</seg>
+  </tuv>
+</tu>
+<tu tuid="323" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and fell dead.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se murió.</seg>
+  </tuv>
+</tu>
+<tu tuid="324" datatype="Text" difficulty="" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="325" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>They were all three</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Los tres estaban</seg>
+  </tuv>
+</tu>
+<tu tuid="326" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>very pleased.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>muy contentos.</seg>
+  </tuv>
+</tu>
+<tu tuid="327" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>The hunter</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>El cazador</seg>
+  </tuv>
+</tu>
+<tu tuid="328" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>took</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>tomó</seg>
+  </tuv>
+</tu>
+<tu tuid="329" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>the pelt</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el pellejo</seg>
+  </tuv>
+</tu>
+<tu tuid="330" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>of the Wolf,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>del Lobo,</seg>
+  </tuv>
+</tu>
+<tu tuid="331" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and carried it</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y lo llevó</seg>
+  </tuv>
+</tu>
+<tu tuid="332" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>home.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a casa.</seg>
+  </tuv>
+</tu>
+<tu tuid="333" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>The grandmother</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>La abuela</seg>
+  </tuv>
+</tu>
+<tu tuid="334" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>ate</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>comió</seg>
+  </tuv>
+</tu>
+<tu tuid="335" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the cakes,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>las tortas,</seg>
+  </tuv>
+</tu>
+<tu tuid="336" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and drank</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y bebió</seg>
+  </tuv>
+</tu>
+<tu tuid="337" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the milk,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la leche,</seg>
+  </tuv>
+</tu>
+<tu tuid="338" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and recovered her health,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se repuso un poco,</seg>
+  </tuv>
+</tu>
+<tu tuid="339" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and Little Red Riding-Hood</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y Caperucita Roja</seg>
+  </tuv>
+</tu>
+<tu tuid="340" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>said to herself</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo a sí misma</seg>
+  </tuv>
+</tu>
+<tu tuid="341" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>that she would never again wander</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que nunca jamás se desviará</seg>
+  </tuv>
+</tu>
+<tu tuid="342" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>in the forest alone.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en el bosque sóla.</seg>
+  </tuv>
+</tu>
+</body>
+</tmx>
